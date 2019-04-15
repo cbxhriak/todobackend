@@ -1,0 +1,11 @@
+Collecting distribute
+  Downloading https://files.pythonhosted.org/packages/5f/ad/1fde06877a8d7d5c9b60eff7de2d452f639916ae1d48f0b8f97bf97e570a/distribute-0.7.3.zip (145kB)
+Collecting setuptools>=0.7 (from distribute)
+  Downloading https://files.pythonhosted.org/packages/c8/b0/cc6b7ba28d5fb790cf0d5946df849233e32b8872b6baca10c9e002ff5b41/setuptools-41.0.0-py2.py3-none-any.whl (575kB)
+Installing collected packages: setuptools, distribute
+  Found existing installation: setuptools 40.8.0
+    Uninstalling setuptools-40.8.0:
+      Successfully uninstalled setuptools-40.8.0
+  Running setup.py install for distribute: started
+    Running setup.py install for distribute: finished with status 'done'
+Successfully installed distribute-0.7.3 setuptools-41.0.0
